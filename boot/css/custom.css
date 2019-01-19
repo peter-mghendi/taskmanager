@@ -1,0 +1,21 @@
+
+body{
+   background-image: url('images/background.png');
+   background-repeat: no-repeat;
+   background-size: 100%;
+   background-position: top left;}
+
+h2{height: 50px;
+   padding-top: 14px;}
+
+h1,h2,h3,h4,h5,h6,p,label,th,td{color: #1b6d85}
+
+.navbar{border-radius: 0;}
+
+.btn{border-radius: 0;}
+
+input{border-radius: 0;}
+
+
+
+
